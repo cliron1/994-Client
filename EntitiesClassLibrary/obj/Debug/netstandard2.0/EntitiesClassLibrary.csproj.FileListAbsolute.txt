@@ -1,0 +1,8 @@
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\bin\Debug\netstandard2.0\EntitiesClassLibrary.deps.json
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\bin\Debug\netstandard2.0\EntitiesClassLibrary.dll
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\bin\Debug\netstandard2.0\EntitiesClassLibrary.pdb
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\obj\Debug\netstandard2.0\EntitiesClassLibrary.csprojAssemblyReference.cache
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\obj\Debug\netstandard2.0\EntitiesClassLibrary.AssemblyInfoInputs.cache
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\obj\Debug\netstandard2.0\EntitiesClassLibrary.AssemblyInfo.cs
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\obj\Debug\netstandard2.0\EntitiesClassLibrary.dll
+M:\994\WebAPI\Lesson7\EntitiesClassLibrary\obj\Debug\netstandard2.0\EntitiesClassLibrary.pdb
